@@ -22,7 +22,7 @@ Por ultimo, realizamos un footter con informacion basica, como la drecciom, rede
 ***
 
 ```
-$ clonar git (https://github.com/200ximena/TALLER_8_Y_9_JAVA_AVANZADO.git)
+$ clonar git (https://github.com/200ximena/Node_taller1.git)
 ```
 ## Resultados
 ***
