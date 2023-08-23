@@ -1,0 +1,22 @@
+.footer-style {
+    padding-top: 50px;
+    background-color: #ffffff;
+}
+footer {
+  color: rgb(15, 15, 15);
+}
+footer h4 {
+  margin-bottom: 30px;
+    font-weight: 800;
+}
+footer .footer-above {
+  padding-top: 50px;
+  background-color: #90a9c2;
+}
+footer .footer-col {
+  margin-bottom: 50px;
+}
+footer .footer-below {
+  padding: 25px 0;
+  background-color: #7389a0;
+}
