@@ -26,3 +26,6 @@ $ clonar git (https://github.com/200ximena/Node_taller1.git)
 ```
 ## Resultados
 ***
+
+![image](https://github.com/200ximena/Node_taller1/assets/128264476/5d1249a5-0a79-412d-8ba1-a6c565c0915e)
+
